@@ -63,3 +63,9 @@ ul {
   padding: 0;
   margin-right:auto;
 }
+
+.plants {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
